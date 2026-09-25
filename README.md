@@ -13,7 +13,8 @@
 
 ## 复现步骤
 Windows 下 cmd/PowerShell 与 Git Bash **二选一**执行即可，激活成功的标志是命令行前出现 `(venv)`。
-**cmd/powershell**
+
+**cmd / PowerShell**
 ```bash
 python -m venv venv
 .\venv\Scripts\activate 
